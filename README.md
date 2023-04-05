@@ -31,7 +31,7 @@ print("Swapped values are:",b1,b2)
 ```
 
 ##Output:
-![swap](https://user-images.githubusercontent.com/127313881/230111926-22694a6a-6046-4518-8255-035ff9abb9e3.png)
+![swap1](https://user-images.githubusercontent.com/127313881/230112700-afa61480-e02b-4d99-a71a-ff6d00c68e6e.png)
 
 
 ## RESULT:
